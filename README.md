@@ -35,14 +35,6 @@ Here are the key technologies and tools I work with or am actively learning:
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=luisalho&show_icons=true&theme=radial" alt="Luis Alho's GitHub Stats">
-</div>
-
----
-
 ### 📫 Connect with Me
 
 Whether you want to discuss software architecture, talk about the Java ecosystem, or just connect, feel free to reach out:
