@@ -23,14 +23,14 @@ You can click the Preview link to take a look at your changes.
 
 Here are the key technologies and tools I work with or am actively learning:
 
-| Categoria                 | Tecnologias              |
-| ------------------------- | ------------------------ |
-| **Backend & Frameworks**  | Java, Spring Boot        |
-| **Arquitetura**           | Microservices, REST APIs |
-| **Bases de Dados**        | PostgreSQL, MySQL        |
-| **Ferramentas & DevOps**  | Git, Maven               |
-| **Testes & Automação**    | Selenium                 |
-| **Atualmente a Aprender** | Docker, Unit Testing     |
+| Category                 | Technologies             |
+| ------------------------ | ------------------------ |
+| **Backend & Frameworks** | Java, Spring Boot        |
+| **Architecture**         | Microservices, REST APIs |
+| **Databases**            | PostgreSQL, MySQL        |
+| **Tools & DevOps**       | Git, Maven               |
+| **Testing & Automation** | Selenium                 |
+| **Currently Learning**   | Docker, Unit Testing     |
 
 ---
 
