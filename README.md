@@ -37,7 +37,7 @@ Here are the key technologies and tools I work with or am actively learning:
 ### 📫 Connect with Me
 
 - 📧 **Email:** luisalhopt@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/luis-alho/](hhttps://www.linkedin.com/in/luis-alho/)
+- 💼 **LinkedIn:** [linkedin.com/in/luis-alho/](https://www.linkedin.com/in/luis-alho/)
 - 🌐 **Portfolio:** [luisalho.github.com](https://luisalho.github.io)
 
 ---
