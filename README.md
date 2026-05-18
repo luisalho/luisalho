@@ -13,11 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 About Me
 
-I am a Back-End Developer passionate about software architecture, distributed systems, and building scalable applications. 
-
-* **👀 Interests:** RESTful API Development, Microservices Architecture, Cloud Computing, and Clean Code.
-* **🌱 Currently Learning:** Mastering **Docker** containerization, advanced **Git** workflows, and deepening my knowledge in the Spring Boot ecosystem.
-* **💞️ Collaboration:** Looking to collaborate on open-source projects, back-end APIs, or any challenging system scalability issues.
+- **👀 Interests:** RESTful API Development, Microservices Architecture, Cloud Computing, and Clean Code.
+- **🌱 Currently Learning:** **Docker** containerization, **Unit Testing**, and improving my knowledge of the **Spring Boot** ecosystem.
+- **📚 Experience Level:** Currently building a solid foundation in backend development and modern development tools.
 
 ---
 
@@ -25,25 +23,25 @@ I am a Back-End Developer passionate about software architecture, distributed sy
 
 Here are the key technologies and tools I work with or am actively learning:
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core & Frameworks** | Java, Spring Boot, Spring Data JPA, Spring Security |
-| **Architecture** | Microservices, REST APIs |
-| **Databases** | PostgreSQL, MySQL |
-| **Tools & DevOps (Learning)** | **Git**, **Docker**, Maven, Postman |
-| **Testing** | JUnit 5, Mockito |
+| Categoria                 | Tecnologias              |
+| ------------------------- | ------------------------ |
+| **Backend & Frameworks**  | Java, Spring Boot        |
+| **Arquitetura**           | Microservices, REST APIs |
+| **Bases de Dados**        | PostgreSQL, MySQL        |
+| **Ferramentas & DevOps**  | Git, Maven               |
+| **Testes & Automação**    | Selenium                 |
+| **Atualmente a Aprender** | Docker, Unit Testing     |
 
 ---
 
 ### 📫 Connect with Me
 
-Whether you want to discuss software architecture, talk about the Java ecosystem, or just connect, feel free to reach out:
-
-* 📧 **Email:** [your.email@example.com]
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* 🌐 **Portfolio:** [http://luisalho.github.com](https://luisalho.github.io)
+- 📧 **Email:** luisalhopt@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/luis-alho/](hhttps://www.linkedin.com/in/luis-alho/)
+- 🌐 **Portfolio:** [luisalho.github.com](https://luisalho.github.io)
 
 ---
+
 <div align="center">
   "Talk is cheap. Show me the code." - Linus Torvalds
 </div>
